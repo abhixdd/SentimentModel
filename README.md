@@ -20,7 +20,9 @@
 <hr>
 SentimentModel is a simple sentiment analysis tool that processes text data to determine the sentiment of user reviews or social media posts. The model predicts whether the sentiment of a given text is positive or negative.
 
-
+> [!WARNING]  
+> This tool is not 100% accurate and should not be used for critical decision-making.
+> 
 ## Features
 
 - Preprocesses text data by converting to lowercase and removing punctuation.
