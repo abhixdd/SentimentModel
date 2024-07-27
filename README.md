@@ -70,9 +70,9 @@ python main.py
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Submit Pull Requests](https://github.com/abhixdd/SentimentModel/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/abhixdd/SentimentModel/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/abhixdd/SentimentModel/issues)**: Submit bugs found or log feature requests for Sentimentmodel.
+- **Submit Pull Requests**: Review open PRs, and submit your own PRs.
+- **Join the Discussions**: Share your insights, provide feedback, or ask questions.
+- **Report Issues**: Submit bugs found or log feature requests for Sentimentmodel.
 
 <details closed>
     <summary>Contributing Guidelines</summary>
